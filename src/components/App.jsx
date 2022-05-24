@@ -1,7 +1,5 @@
 import "../styles/App.css"
 
-function App() {
+export default function App() {
   return <div className="App">home</div>
 }
-
-export default App
